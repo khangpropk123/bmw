@@ -4,4 +4,5 @@
 
 TITLE Node Server Starting
 ECHO Please check that you had installed Nodejs and MongoDB.
-node web/app.js
+cd web & npm i
+node app.js
